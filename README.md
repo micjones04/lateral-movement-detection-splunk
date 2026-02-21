@@ -65,3 +65,28 @@ This generated authentication, privilege assignment, execution artifacts, and en
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🚀 Future Enhancements
+- SPL detection rule creation  
+- MITRE ATT&CK mapping  
+- Investigation playbook  
+- Additional attack simulations  
+
+---
+
+## 🧩 Lessons Learned
+This lab reinforced the importance of correlating authentication telemetry with execution artifacts.  
+It also highlighted how service creation events can provide high-confidence indicators of lateral movement.
+
+---
+
+## 🧠 Why This Matters
+Lateral movement is a critical stage in real-world intrusions.  
+This project demonstrates how multi-source telemetry can be correlated to detect attacker behavior with high confidence.
+
+---
+
+## 🧠 Key Takeaway
+This project demonstrates the ability to design, execute, and investigate a realistic lateral movement scenario while validating detection coverage across multiple telemetry layers.
