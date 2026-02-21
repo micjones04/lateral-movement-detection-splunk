@@ -65,7 +65,10 @@ This generated authentication, privilege assignment, execution artifacts, and en
 ---
 
 ## 📂 Repository Structure
-
+docs/         → Full investigation write-up  
+screenshots/  → Splunk queries and evidence  
+queries/      → SPL searches used in investigation  
+detections/   → Detection logic and ideas  
 ---
 
 ## 🚀 Future Enhancements
