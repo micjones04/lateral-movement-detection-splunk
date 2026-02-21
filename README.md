@@ -32,6 +32,7 @@ The objective was to validate telemetry ingestion across multiple log sources an
 A simulated attacker used **Impacket PsExec** to authenticate to a domain workstation and execute a remote service using administrative credentials.
 
 This generated authentication, privilege assignment, execution artifacts, and endpoint detection telemetry.
+<img width="975" height="211" alt="image" src="https://github.com/user-attachments/assets/4cd56443-3e75-41c1-8b65-4e0a837af14d" />
 
 ---
 
@@ -43,6 +44,8 @@ This generated authentication, privilege assignment, execution artifacts, and en
 | 4672 | Privileged session assigned |
 | 7045 | Remote service installed |
 | Defender Alerts | Endpoint detection triggered |
+<img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/82fbd311-7e56-46e5-adcf-caef7e2d57a7" />
+<img width="461" height="323" alt="image" src="https://github.com/user-attachments/assets/e2d789dc-6d14-4e88-a6cd-1c43ee1cf32e" />
 
 ---
 
@@ -52,6 +55,7 @@ This generated authentication, privilege assignment, execution artifacts, and en
 3. Confirm execution artifact  
 4. Correlate endpoint alerts  
 5. Trace origin host  
+<img width="975" height="723" alt="image" src="https://github.com/user-attachments/assets/a93cecc1-0bde-408a-9c01-b5946ba07f34" />
 
 ---
 
